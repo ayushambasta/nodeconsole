@@ -1,0 +1,24 @@
+{
+  "name": "nodeconsole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushambasta/nodeconsole.git"
+  },
+  "keywords": [],
+  "author": "Ayush Saurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushambasta/nodeconsole/issues"
+  },
+  "homepage": "https://github.com/ayushambasta/nodeconsole#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33"
+  }
+}
